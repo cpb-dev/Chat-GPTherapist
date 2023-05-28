@@ -19,7 +19,7 @@ chat = openai.ChatCompletion.create(
 reply = chat.choices[0].message.content
 print(f"Done \n\n {reply}")
 
-with open("test.json", "w") as outfile:
+with open("sample.json", "w") as outfile:
     json.dump(reply, outfile)
 
 test = input("OK?")
