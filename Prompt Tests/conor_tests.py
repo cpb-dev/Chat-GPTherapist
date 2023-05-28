@@ -25,3 +25,5 @@ as defined in the fact sheet
 User fact sheet: ```{user_sheet}```
 """
 response = get_completion(prompt)
+
+# Make a method for the prompts to change based on set requirements from JSON file
