@@ -3,13 +3,14 @@ import openai, json
 openai.api_key = 'Your API Key'
 
 prompt = """Your role is to create a JSON file for testing a program 
-that helps aid in finding out
-"""
+    that helps aid in finding out mental diagnosis based on a string of text from a client
+    """
 
 messages = [ { "role": "system", "content": prompt} ]
 
 params = input("What are the parametors you want to test? \n")
-message = f"Make a JSON file that has 20 entries with dummy data that resembles the structure for {params}"
+message = f"""Make a JSON file that has 20 entries with dummy 
+    data that resembles the structure for {params}"""
 
 messages.append(
     {"role": "user", "content": message}

@@ -1,0 +1,262 @@
+[
+    {
+      "message": "I've been feeling really down lately and I can't seem to shake it off.",
+      "conditions": [
+        {
+          "name": "Major Depressive Disorder",
+          "probability": 0.85
+        },
+        {
+          "name": "Generalized Anxiety Disorder",
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "message": "I haven't been sleeping well for the past few weeks and it's affecting my work.",
+      "conditions": [
+        {
+          "name": "Insomnia",
+          "probability": 0.7
+        },
+        {
+          "name": "Depression",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I get really anxious when I have to speak in public, sometimes to the point where I can't do it.",
+      "conditions": [
+        {
+          "name": "Social Anxiety Disorder",
+          "probability": 0.9
+        },
+        {
+          "name": "Generalized Anxiety Disorder",
+          "probability": 0.5
+        }
+      ]
+    },
+    {
+      "message": "I've been having these thoughts that something bad is going to happen to me or my loved ones.",
+      "conditions": [
+        {
+          "name": "Generalized Anxiety Disorder",
+          "probability": 0.7
+        },
+        {
+          "name": "Panic Disorder",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I've been feeling really irritable and angry lately, and I don't know why.",
+      "conditions": [
+        {
+          "name": "Intermittent Explosive Disorder",
+          "probability": 0.8
+        },
+        {
+          "name": "Bipolar Disorder",
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "message": "I've been having trouble focusing at work and I'm making a lot of mistakes.",
+      "conditions": [
+        {
+          "name": "ADHD",
+          "probability": 0.6
+        },
+        {
+          "name": "Depression",
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "message": "I feel like I'm in a fog all the time and I can't think clearly.",
+      "conditions": [
+        {
+          "name": "Brain Fog",
+          "probability": 0.9
+        },
+        {
+          "name": "Chronic Fatigue Syndrome",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I've been having nightmares and waking up in a sweat for the past few nights.",
+      "conditions": [
+        {
+          "name": "Post-Traumatic Stress Disorder",
+          "probability": 0.8
+        },
+        {
+          "name": "Anxiety",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I'm always worried that I'm going to get sick, even if there's no reason to be.",
+      "conditions": [
+        {
+          "name": "Health Anxiety",
+          "probability": 0.7
+        },
+        {
+          "name": "Generalized Anxiety Disorder",
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "message": "I feel like I'm on edge all the time and I can't relax.",
+      "conditions": [
+        {
+          "name": "Generalized Anxiety Disorder",
+          "probability": 0.8
+        },
+        {
+          "name": "Panic Disorder",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I've been feeling really sad and hopeless lately, and I don't see a way out of it.",
+      "conditions": [
+        {
+          "name": "Major Depressive Disorder",
+          "probability": 0.9
+        },
+        {
+          "name": "Bipolar Disorder",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I get really nervous and shaky when I have to do something that's outside of my comfort zone.",
+      "conditions": [
+        {
+          "name": "Generalized Anxiety Disorder",
+          "probability": 0.7
+        },
+        {
+          "name": "Social Anxiety Disorder",
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "message": "I've been having a lot of trouble sleeping and I'm always tired.",
+      "conditions": [
+        {
+          "name": "Sleep Apnea",
+          "probability": 0.6
+        },
+        {
+          "name": "Insomnia",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I feel really anxious and tense all the time, even when there's nothing to worry about.",
+      "conditions": [
+        {
+          "name": "Generalized Anxiety Disorder",
+          "probability": 0.9
+        },
+        {
+          "name": "Panic Disorder",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I'm always worried about things that might go wrong, even if they're unlikely to happen.",
+      "conditions": [
+        {
+          "name": "Generalized Anxiety Disorder",
+          "probability": 0.8
+        },
+        {
+          "name": "Panic Disorder",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I've been feeling really down and unmotivated lately.",
+      "conditions": [
+        {
+          "name": "Depression",
+          "probability": 0.8
+        },
+        {
+          "name": "Bipolar Disorder",
+          "probability": 0.4
+        }
+      ]
+    },
+    {
+      "message": "I've been having trouble concentrating and remembering things.",
+      "conditions": [
+        {
+          "name": "Attention Deficit Disorder",
+          "probability": 0.7
+        },
+        {
+          "name": "Depression",
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "message": "I'm always worried that I'm not good enough and that people will judge me.",
+      "conditions": [
+        {
+          "name": "Social Anxiety Disorder",
+          "probability": 0.9
+        },
+        {
+          "name": "Generalized Anxiety Disorder",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I get really upset and have a hard time calming down when something bad happens.",
+      "conditions": [
+        {
+          "name": "Intermittent Explosive Disorder",
+          "probability": 0.7
+        },
+        {
+          "name": "Bipolar Disorder",
+          "probability": 0.3
+        }
+      ]
+    },
+    {
+      "message": "I have a lot of trouble falling asleep and staying asleep.",
+      "conditions": [
+        {
+          "name": "Insomnia",
+          "probability": 0.8
+        },
+        {
+          "name": "Sleep Apnea",
+          "probability": 0.3
+        }
+      ]
+    }
+  ]
