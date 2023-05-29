@@ -2,7 +2,9 @@ import openai, json
 
 openai.api_key = 'Your API Key'
 
-prompt = "Your role is to create a JSON file for programming"
+prompt = """Your role is to create a JSON file for testing a program 
+that helps aid in finding out
+"""
 
 messages = [ { "role": "system", "content": prompt} ]
 
