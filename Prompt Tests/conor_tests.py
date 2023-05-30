@@ -18,7 +18,7 @@ I am sad and lonley!
 """
 
 prompt = f"""
-YOur role is to act as a {sentiment} to the user
+Your role is to act as a {sentiment} to the user
 provide valuable advice based on the users mood
 as defined in the fact sheet
 
@@ -26,4 +26,12 @@ User fact sheet: ```{user_sheet}```
 """
 response = get_completion(prompt)
 
-# Make a method for the prompts to change based on set requirements from JSON file
+# Gather a user input, this should be a paragraph explaining the behaviours
+# of a patient
+
+# Save that paragraph into a JSON with the probability of certain conditions.
+# Get the API to assess the options for what the GP should suggest based on
+# condition recomendations
+
+# If info is incomplete then continue converstaion, saving a case file as the
+# JSON file.
