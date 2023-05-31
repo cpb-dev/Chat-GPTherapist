@@ -11,16 +11,6 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
     )
     return response.choices[0].message["content"]
 
-# Gather a user input, this should be a paragraph explaining the behaviours
-# of a patient
-
-# Save that paragraph into a JSON with the probability of certain conditions.
-# Get the API to assess the options for what the GP should suggest based on
-# condition recomendations
-
-# If info is incomplete then continue converstaion, saving a case file as the
-# JSON file.
-
 def processInfo():
     inp = input("Type in analysis:\n")
 
