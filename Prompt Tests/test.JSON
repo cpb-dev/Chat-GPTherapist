@@ -1,104 +1,17 @@
 {
-    "messages": [
-        {
-            "id": 1,
-            "text": "Hey, how are you doing today?",
-            "emotion": "happy"
-        },
-        {
-            "id": 2,
-            "text": "I am feeling really tired today.",
-            "emotion": "tired"
-        },
-        {
-            "id": 3,
-            "text": "I just got a promotion at work!",
-            "emotion": "excited"
-        },
-        {
-            "id": 4,
-            "text": "I lost my phone yesterday and it was a terrible experience.",
-            "emotion": "frustrated"
-        },
-        {
-            "id": 5,
-            "text": "Today is my birthday and I am feeling grateful for all the love and support.",
-            "emotion": "grateful"
-        },
-        {
-            "id": 6,
-            "text": "I am feeling really sad today because I lost my dog.",
-            "emotion": "sad"
-        },
-        {
-            "id": 7,
-            "text": "I just finished reading a really good book and I highly recommend it.",
-            "emotion": "impressed"
-        },
-        {
-            "id": 8,
-            "text": "I got into a car accident today and it was really scary.",
-            "emotion": "fearful"
-        },
-        {
-            "id": 9,
-            "text": "I just aced my final exam and I am feeling relieved.",
-            "emotion": "relieved"
-        },
-        {
-            "id": 10,
-            "text": "I am feeling stressed out because I have a lot of work to do.",
-            "emotion": "stressed"
-        },
-        {
-            "id": 11,
-            "text": "I had a great time at the party last night and met some really cool people.",
-            "emotion": "happy"
-        },
-        {
-            "id": 12,
-            "text": "I am feeling really anxious because of the pandemic.",
-            "emotion": "anxious"
-        },
-        {
-            "id": 13,
-            "text": "I just had a baby and I am feeling overjoyed!",
-            "emotion": "overjoyed"
-        },
-        {
-            "id": 14,
-            "text": "I am feeling really bored at home because of the lockdown.",
-            "emotion": "bored"
-        },
-        {
-            "id": 15,
-            "text": "I just watched an amazing movie and it made me feel inspired.",
-            "emotion": "inspired"
-        },
-        {
-            "id": 16,
-            "text": "I am feeling really lonely because I haven't seen my friends in a while.",
-            "emotion": "lonely"
-        },
-        {
-            "id": 17,
-            "text": "I just finished a big project at work and I am feeling proud.",
-            "emotion": "proud"
-        },
-        {
-            "id": 18,
-            "text": "I am feeling really confused about what to do next in my life.",
-            "emotion": "confused"
-        },
-        {
-            "id": 19,
-            "text": "I just got out of a toxic relationship and I am feeling relieved.",
-            "emotion": "relieved"
-        },
-        {
-            "id": 20,
-            "text": "I am feeling really grateful for all the blessings in my life.",
-            "emotion": "grateful"
-        }
+    "summary": "The patient is expressing feelings of hopelessness and despair, exhibiting symptoms of depression such as loss of appetite, fatigue, and difficulty sleeping. They are also withdrawing from social interactions and showing signs of low self-esteem.",
+    "possible_conditions": [
+      {
+        "condition": "Major Depressive Disorder",
+        "probability": 0.9
+      },
+      {
+        "condition": "Dysthymia",
+        "probability": 0.4
+      },
+      {
+        "condition": "Adjustment Disorder with Depressed Mood",
+        "probability": 0.3
+      }
     ]
-}
+  }
