@@ -35,3 +35,8 @@ response = get_completion(prompt)
 
 # If info is incomplete then continue converstaion, saving a case file as the
 # JSON file.
+
+def processInfo():
+    inp = input("Type in analysis:\n")
+
+    
